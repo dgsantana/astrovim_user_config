@@ -6,4 +6,5 @@ return {
     { import = "astrocommunity.scrolling.nvim-scrollbar" },
     { import = "astrocommunity.motion.mini-surround" },
     { import = "astrocommunity.completion.codeium-vim" },
+    { import = "astrocommunity.syntax.vim-sandwich" },
 }
